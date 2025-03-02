@@ -11,7 +11,7 @@ import SwiftUI
 struct CombineFrameWorkBootCampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PostListView()
         }
     }
 }
